@@ -5,7 +5,8 @@
       "info-card#button-right",
       "info-card#button-left",
       "flex-layout.row",
-      "shelf"
+      "shelf",
+      "slider-layout#home"
     ]
   },
   "rich-text": {
@@ -80,19 +81,6 @@
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/major_appliance_banner___bb10093866a127345ddfbcca3efa5022.png",
       "maxWidth": "100%"
     }
-  },
-
-  "product-summary.shelf": {
-    "children": [
-      "product-summary-image",
-      "product-summary-add-to-list-button",
-      "product-summary-name",
-      "product-rating-inline",
-      "product-summary-space",
-      "product-summary-price",
-      "product-identifier.summary",
-      "product-summary-buy-button"
-    ]
   }
 
 }
